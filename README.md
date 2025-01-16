@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web development projects.**
 
-- 📫 How to reach me **nyoupanemadhu07t@gmail.com**
+- 📫 How to reach me **nyoupanemadhu07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,7 +40,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhuneupane&show_icons=true&include_all_commits=fale&theme=buefy&hide_border=true" alt="Madhu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuneupane&layout=compact&langs_count=5&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p align ="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrakhyatKhati&" alt="PrakhyatKhati" /></p>
+<p align ="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhuNyoupane&" alt="Madhu Nyoupane" /></p>
 
 
 <!--busy eating-->
